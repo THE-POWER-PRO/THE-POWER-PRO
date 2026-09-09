@@ -54,13 +54,10 @@
 <div align="center">
   
   <a href="https://github.com/THE-POWER-PRO/ALL-DOWLONDER">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=THE-POWER-PRO&repo=ALL-DOWLONDER&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="PowerPro Downloader" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=THE-POWER-PRO&repo=ALL-DOWLONDER&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&v=2" alt="PowerPro Downloader" />
   </a>
   
-  <br><br>
-  > **$\color{#FF0000}{\textsf{PowerPro:}}$** $\color{#B0C4DE}{\textsf{Ultimate CLI Media Downloader for YouTube and Instagram.}}$ ⚡
-  
-  <br><br>
+
   <i>"I don't just write code. I engineer solutions."</i> <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=100&section=footer" width="100%">
 </div>
