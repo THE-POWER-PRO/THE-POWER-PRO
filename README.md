@@ -30,9 +30,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=THE-POWER-PRO&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
@@ -58,6 +56,9 @@
   <a href="https://github.com/THE-POWER-PRO/ALL-DOWLONDER">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=THE-POWER-PRO&repo=ALL-DOWLONDER&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="PowerPro Downloader" />
   </a>
+  
+  <br><br>
+  > **$\color{#FF0000}{\textsf{PowerPro:}}$** $\color{#B0C4DE}{\textsf{Ultimate CLI Media Downloader for YouTube and Instagram.}}$ ⚡
   
   <br><br>
   <i>"I don't just write code. I engineer solutions."</i> <br><br>
