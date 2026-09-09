@@ -39,14 +39,14 @@
 <h2 align="center">$\color{#00FFFF}{\textsf{📊 ＳＹＳＴＥＭ ＳＴＡＴＩＳＴＩＣＳ}}$</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THE-POWER-PRO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=00FF00&text_color=C9D1D9&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=THE-POWER-PRO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=00FF00&text_color=C9D1D9&v=1" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=THE-POWER-PRO&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0000&fire=FF4500&currStreakNum=00FF00&v=1" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THE-POWER-PRO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=C9D1D9&v=1" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=THE-POWER-PRO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=C9D1D9&v=1" alt="Top Languages" width="60%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
@@ -55,8 +55,8 @@
 
 <div align="center">
   
-  <a href="https://github.com/THE-POWER-PRO/powerpro-commnd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=THE-POWER-PRO&repo=powerpro-commnd&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="PowerPro Downloader" />
+  <a href="https://github.com/THE-POWER-PRO/ALL-DOWLONDER">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=THE-POWER-PRO&repo=ALL-DOWLONDER&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="PowerPro Downloader" />
   </a>
   
   <br><br>
